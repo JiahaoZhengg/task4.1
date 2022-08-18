@@ -1,0 +1,26 @@
+.ui.icon.input{
+    width: 950px;
+    height: 36px;
+    float: left;
+    margin-left: 100px;
+}
+.deakin{
+float: left;
+margin: auto ;
+}
+.post{
+height: 36px;
+float: left;
+margin-left: 20px;
+}
+.login{
+height: 36px;
+float: left;
+}
+
+.header{
+background-color:rgb(235, 230, 230);
+text-align: center;
+margin-top: 50px;
+height: 36px;
+}
